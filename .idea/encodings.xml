@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pg/com/planegame/Boom.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pg/com/planegame/Boom.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pg/com/planegame/Boss.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pg/com/planegame/Boss.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pg/com/planegame/Bullet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pg/com/planegame/Enemy.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pg/com/planegame/GameBg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pg/com/planegame/GameMenu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pg/com/planegame/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pg/com/planegame/MySurfaceView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/pg/com/planegame/Player.java" charset="GBK" />
+  </component>
+</project>
